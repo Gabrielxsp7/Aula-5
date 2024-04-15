@@ -7,7 +7,7 @@ Sendo:
 
 A = área
 
-B = base
+b = base
 
 h = altura
 
@@ -46,14 +46,14 @@ Sendo:
 
 A = área
 
-B = base
+b = base
 
 h = Altura
 
 
 *Trapézio*
 
-$A=\pi.r^{2}$
+$A=\frac{(B.b).h}{2}$
 
 Sendo:
 
@@ -68,7 +68,7 @@ h = altura
 
 *circulo*
 
-$A=\frac{(B.b).h}{2}$
+$A=\pi.r^2{2}$
 
 sendo:
 
