@@ -12,6 +12,7 @@ B = base
 h = altura
 
 
+
 Quadrado
 
 $A=L^{2}$
@@ -19,4 +20,5 @@ $A=L^{2}$
 Sendo:
 
 A = área
+
 L = lado
