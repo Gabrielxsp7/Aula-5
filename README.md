@@ -1,5 +1,5 @@
 # Aula-5
-Triângulo
+*Triângulo*
 
 $A=\frac{b.h}{2}$
 
@@ -12,7 +12,7 @@ B = base
 h = altura
 
 
-Quadrado
+*Quadrado*
 
 
 $A=L^{2}$
@@ -24,7 +24,7 @@ A = área
 L = lado
 
 
-Losango
+*Losango*
 
 $A=\frac{D.d}{2}$
 
@@ -38,7 +38,7 @@ d = diagonal menor
 
 
 
-Retângulo
+*Retângulo*
 
 $A=b.h$
 
@@ -51,7 +51,7 @@ B = base
 h = Altura
 
 
-Trapézio
+*Trapézio*
 
 $A=\pi.r^{2}$
 
@@ -66,7 +66,7 @@ b = base menor
 h = altura
 
 
-circulo
+*circulo*
 
 $A=\frac{(B.b).h}{2}$
 
