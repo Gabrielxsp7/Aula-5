@@ -12,8 +12,6 @@ B = base
 h = altura
 
 
-
-
 Quadrado
 
 
